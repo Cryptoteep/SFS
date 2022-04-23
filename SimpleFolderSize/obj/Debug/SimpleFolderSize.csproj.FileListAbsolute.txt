@@ -18,3 +18,13 @@ C:\Users\User_01\Desktop\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.csproj.
 C:\Users\User_01\Desktop\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.csproj.CoreCompileInputs.cache
 C:\Users\User_01\Desktop\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.exe
 C:\Users\User_01\Desktop\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.pdb
+H:\C#\SFS\SimpleFolderSize\bin\Debug\SimpleFolderSize.exe.config
+H:\C#\SFS\SimpleFolderSize\bin\Debug\SimpleFolderSize.exe
+H:\C#\SFS\SimpleFolderSize\bin\Debug\SimpleFolderSize.pdb
+H:\C#\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.csproj.AssemblyReference.cache
+H:\C#\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.Form1.resources
+H:\C#\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.Properties.Resources.resources
+H:\C#\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.csproj.GenerateResource.cache
+H:\C#\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.csproj.CoreCompileInputs.cache
+H:\C#\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.exe
+H:\C#\SFS\SimpleFolderSize\obj\Debug\SimpleFolderSize.pdb

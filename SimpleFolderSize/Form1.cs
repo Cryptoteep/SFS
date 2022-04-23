@@ -41,6 +41,6 @@ namespace SimpleFolderSize
                 size += allfiles[i].Length;
             }
             return size;
-        }
+        } 
     }
 }
